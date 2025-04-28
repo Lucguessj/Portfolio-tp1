@@ -18,8 +18,8 @@ header {
   background-color: #f9f9f9;
   display: flex;
   flex-direction: column;
-  align-items: center; /* Asegura que los elementos dentro estén centrados */
-  justify-content: center; /* Centra el contenido en la tarjeta */
+  align-items: center; 
+  justify-content: center; 
 }
 
 img {
@@ -66,14 +66,14 @@ button:focus-visible {
 footer {
   text-align: center;
   margin-top: 2rem;
-  color: white; /* Ahora todo el texto y los iconos se heredan en blanco */
+  color: white; 
 }
 
 .footer-content {
   display: flex;
   align-items: center;
   justify-content: center;
-  gap: 10px; /* Espacio entre texto e iconos */
+  gap: 10px; 
 }
 
 .seguime {
@@ -90,7 +90,7 @@ footer a {
 
 footer a:hover {
   transform: scale(1.3);
-  color: #f30e79; /* Amarillo dorado a}l pasar el mouse */
+  color: #f30e79; 
 }
 #video-fondo {
   position: fixed;
@@ -118,8 +118,8 @@ footer a:hover {
 main {
   display: flex;
   flex-direction: column;
-  align-items: center; /* Asegura que los elementos dentro estén centrados */
-  justify-content: center; /* Centra el contenido en la tarjeta */
+  align-items: center; 
+  justify-content: center; 
 }
 
 h4 {
@@ -131,5 +131,5 @@ h4 {
 hr {
   width: 50%;
   margin: 1rem auto;
-  border: 1px solid rgba(255, 255, 255, 0.3); /* Línea clarita y elegante */
+  border: 1px solid rgba(255, 255, 255, 0.3); 
 }
